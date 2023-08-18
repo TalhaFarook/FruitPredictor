@@ -15,8 +15,6 @@ This project demonstrates the use of deep learning and Flask, a Python web frame
 ## Folder Structure
 The project has the following folder structure:
 
-dataset/ - Contains the training, testing, and validation data.<br>
-images/ - Initial dataset before splitting.<br>
 static/ - Holds JavaScript and CSS files for the web interface.<br>
 templates/ - Contains the HTML template for the web interface.<br>
 uploads/ - Temporary directory to store user-uploaded images.<br>
