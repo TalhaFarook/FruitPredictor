@@ -26,13 +26,19 @@ README.md - This readme file.
 
 ## Installation
 Install the required Python libraries:
-pip install flask tensorflow numpy
-
+* npm
+  ```sh
+  pip install flask tensorflow numpy
+  ```
+  
 ## Usage
 Navigate to the project directory in your terminal.
 
 Run the Flask application:
-python app.py
+* npm
+  ```sh
+  pip install flask tensorflow numpy
+  ```
 Open a web browser and go to http://127.0.0.1:5000/ to access the web interface.
 
 ## Web Interface
