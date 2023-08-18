@@ -26,10 +26,10 @@ README.md - This readme file.<br>
 
 ## Installation
 Install the required Python libraries:<br>
-* npm
-  ```sh
-  pip install flask tensorflow numpy
-  ```
+
+```sh
+pip install flask tensorflow numpy
+```
   
 ## Usage
 Navigate to the project directory in your terminal.
